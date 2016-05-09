@@ -1,7 +1,8 @@
 ﻿#zogna cat mouse 
 
-###官方发布点   https://github.com/zogvm/zogcm
-###建议，QQ群：193585959
+### 官方发布点   https://github.com/zogvm/zogcm
+### 链接: http://pan.baidu.com/s/1kUOeR23 密码: sbrr
+### 建议，QQ群：193585959
 
 * 暂时仅支持 XP,WIN7，WIN8，WIN10
 * 如果您患有下载综合征，音视频囤积症。该软件就是您的福音！
