@@ -1,7 +1,8 @@
 ﻿#zogna cat mouse 
 
 ### 官方发布点   https://github.com/zogvm/zogcm
-### 链接: http://pan.baidu.com/s/1kUOeR23 密码: sbrr
+### 链接:	http://pan.baidu.com/s/1b0HXkq
+### 链接:	https://yunpan.cn/cSHwWVmR4q2Ne （提取码：d487）
 ### 建议，QQ群：193585959
 
 * 暂时仅支持 XP,WIN7，WIN8，WIN10
