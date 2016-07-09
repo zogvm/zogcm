@@ -1,0 +1,3 @@
++	zogc.exe	zogc.exe
++	zogm.exe	zogm.exe
++	version	version
