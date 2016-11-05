@@ -1,0 +1,5 @@
++	zogc.exe	zogc.exe
++	zogm.exe	zogm.exe
++	zogrs.exe	zogrs.exe
++	zoghx.exe	zoghx.exe
++	version	version
