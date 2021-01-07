@@ -12,7 +12,7 @@ idna==2.1
 itsdangerous==0.24
 Jinja2==2.8
 jsonpath-rw==1.4.0
-lxml==3.6.0
+lxml==4.6.2
 MarkupSafe==0.23
 parsel==1.0.2
 ply==3.8
